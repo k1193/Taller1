@@ -22,6 +22,9 @@ $division =$variable1 / $variable2;
 
 
   echo("preguna#2 <br>");
+
+  echo("preguna#2 <br>");
+  echo("preguna#2 <br>");
   
 
 
