@@ -2,7 +2,7 @@
 
 
 echo("hola");
-echo("hola");
+
 
 
 ?>
